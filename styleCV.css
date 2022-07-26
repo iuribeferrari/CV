@@ -1,9 +1,19 @@
+.top-container{
+  display: flex;
+  flex-direction: column;
+}
+.foto-container{
+  display: flex;
+  justify-content:center;
+}
 .foto {
    
     margin-top: 10px;
     display: flex;
     border-radius: 999px;
-    justify-content: center;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
 .nombre, h1{
     height: auto; 

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../mnt/chromeos/archive/social-proof-section-master.zip/social-proof-section-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iuribeferrari"
+	}
+}
